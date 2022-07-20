@@ -1,3 +1,5 @@
+schedules:
+  - cron: 
 steps:
 - task: CmdLine@2
   displayName: 'Decorator-injected Task'
