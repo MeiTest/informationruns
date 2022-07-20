@@ -5,6 +5,6 @@ trigger:
   # - cron: 
 steps:
 - task: CmdLine@2
-  displayName: 'Decorator-injected Task'
+  displayName: 'Decorator-injected Task rename'
   inputs:
     script: echo This is from the Decorator for Build
