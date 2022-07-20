@@ -1,3 +1,6 @@
+trigger:
+- master
+- main
 # schedules:
   # - cron: 
 steps:
